@@ -1,4 +1,4 @@
-![logo](https://github.com/datasignature/datasignature/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner%20(4).png)
+![logo](https://github.com/rashed-uzzaman/rashed-uzzaman/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner%20(3).png)
 <h1 align="center">Hi 👋, I'm Rashed-Uzzaman</h1>
 <h3 align="center">Data Science || Excel, Dax, Power Bi || Tableau || Looker Studio || R || SQL || Python, NumPy, Pandas, Matplotlib, Portly || Machine learning Expert||
         </h3>
